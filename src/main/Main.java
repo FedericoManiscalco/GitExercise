@@ -24,5 +24,6 @@ public class Main {
 
 		System.out.println(valore);
 
+		System.out.println("ciao a tutti !!!");
 	}
 }
