@@ -6,8 +6,9 @@ import com.calcolatrice.Variabili;
 
 public class Main {
 	public static void main(String[] args) {
-		System.out.println("ciao");
+		System.out.println("ciao bruthers");
 		System.out.println("Sono Angelo");
+		System.out.println("oleeee");
 
 		double valore;
 
